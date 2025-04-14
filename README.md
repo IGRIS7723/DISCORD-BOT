@@ -17,7 +17,7 @@ Follow these steps carefully to get the bot running:
 
 * **Download or Clone:** Obtain the project files. If you have `git` installed, clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone [<your-repository-url>](https://github.com/IGRIS7723/DISCORD-BOT.git)
     cd discord-bot-tui-monitor
     ```
     (Replace `<your-repository-url>` with the actual URL of the code repository).
